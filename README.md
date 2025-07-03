@@ -46,7 +46,7 @@ secure_file_sharing/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/pinnu1/secure_file_sharing.git
+git clone https://github.com/pinnu1/file_sharing.git
 cd secure_file_sharing
 ```
 
